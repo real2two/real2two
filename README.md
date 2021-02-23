@@ -20,7 +20,7 @@ I've been planning on working with Sirv Developments to help me make Dashactyl. 
 
 ---
 
-I've also been working on a hide and seek game called Hidodie, which is still in the works, and most likely going to stay closed source.
+~~I've also been working on a hide and seek game called Hidodie, which is still in the works, and most likely going to stay closed source.
 
 Hidodie is currently in public beta.
 
@@ -28,7 +28,7 @@ I would enjoy any feedback and artist to help contribute my game to make it bett
 
 Website: https://hidodie.ninja/
 
-Check out my Discord server for Hidodie: https://discord.gg/3wjyyJGXM2
+Check out my Discord server for Hidodie: https://discord.gg/3wjyyJGXM2~~
 
 ---
 
