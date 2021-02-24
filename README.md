@@ -20,6 +20,16 @@ I've been planning on working with Sirv Developments to help me make Dashactyl. 
 
 ---
 
+I made a Discord bot called Custom RPG, which now a friend of mine owns.
+
+Basically, it's a RPG maker on Discord.
+
+We're making a rewrite for the Discord bot so: https://top.gg/bot/716102473718169680
+
+If you need any support: https://discord.gg/6meyZ56Vb6
+
+---
+
 ~~I've also been working on a hide and seek game called Hidodie, which is still in the works, and most likely going to stay closed source.~~
 
 ~~Hidodie is currently in public beta.~~
