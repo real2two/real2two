@@ -8,6 +8,10 @@ I like to make open source programs.
 
 I'll be making a portfolio soon.
 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=real2two&show_icons=true&theme=dark)
+
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=real2two)](https://github.com/anuraghazra/github-readme-stats)
+
 ## My best projects.
 
 I made a Discord bot called Custom RPG, which now a friend of mine owns.
