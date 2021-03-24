@@ -6,7 +6,23 @@ I'm currently a full stack developer who makes frontend pages and backend code b
 
 I like to make open source programs.
 
+I'll be making a portfolio soon.
+
 ## My best projects.
+
+I made a Discord bot called Custom RPG, which now a friend of mine owns.
+
+Basically, it's a RPG maker on Discord.
+
+We're making a rewrite for the Discord bot so: https://top.gg/bot/716102473718169680
+
+The rewrite is almost going to release!
+
+If you need any support: https://discord.gg/6meyZ56Vb6
+
+---
+
+__I have temporarily paused development for this project, and asked https://github.com/SuperS123 to make it in the time being.__
 
 My current big open source project is Dashactyl.
 
@@ -17,28 +33,6 @@ This is mainly to be used by hosting providers, who want a Discord OAuth2 login 
 You should check it out: https://github.com/real2two/dashactyl
 
 I've been planning on working with Sirv Developments to help me make Dashactyl. Check them out here: https://discord.gg/YZNrJ649fJ
-
----
-
-I made a Discord bot called Custom RPG, which now a friend of mine owns.
-
-Basically, it's a RPG maker on Discord.
-
-We're making a rewrite for the Discord bot so: https://top.gg/bot/716102473718169680
-
-If you need any support: https://discord.gg/6meyZ56Vb6
-
----
-
-~~I've also been working on a hide and seek game called Hidodie, which is still in the works, and most likely going to stay closed source.~~
-
-~~Hidodie is currently in public beta.~~
-
-~~I would enjoy any feedback and artist to help contribute my game to make it better!~~
-
-~~Website: https://hidodie.ninja/~~
-
-~~Check out my Discord server for Hidodie: https://discord.gg/3wjyyJGXM2~~
 
 ---
 
