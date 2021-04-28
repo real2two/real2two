@@ -20,8 +20,6 @@ Basically, it's a RPG maker on Discord.
 
 We're making a rewrite for the Discord bot so: https://top.gg/bot/716102473718169680
 
-The rewrite is almost going to release!
-
 If you need any support: https://discord.gg/6meyZ56Vb6
 
 ---
