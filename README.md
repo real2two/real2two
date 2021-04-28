@@ -26,8 +26,6 @@ If you need any support: https://discord.gg/6meyZ56Vb6
 
 ---
 
-__I have temporarily paused development for this project, and asked https://github.com/SuperS123 to make it in the time being.__
-
 My current big open source project is Dashactyl.
 
 It connnects with the Pterodactyl Panel ( https://pterodactyl.io/ ) via API.
@@ -36,7 +34,7 @@ This is mainly to be used by hosting providers, who want a Discord OAuth2 login 
 
 You should check it out: https://github.com/real2two/dashactyl
 
-I've been planning on working with Sirv Developments to help me make Dashactyl. Check them out here: https://discord.gg/YZNrJ649fJ
+Dashactyl server: https://discord.gg/tBzVgw8u
 
 ---
 
