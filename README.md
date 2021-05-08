@@ -32,7 +32,7 @@ This is mainly to be used by hosting providers, who want a Discord OAuth2 login 
 
 You should check it out: https://github.com/real2two/dashactyl
 
-Dashactyl server: https://discord.gg/tBzVgw8u
+Dashactyl server: https://discord.gg/yEv2KhVbWX
 
 ---
 
