@@ -20,7 +20,7 @@ Basically, it's a RPG maker on Discord.
 
 We're making a rewrite for the Discord bot so: https://top.gg/bot/716102473718169680
 
-If you need any support: https://discord.gg/6meyZ56Vb6
+If you need any support: https://discord.gg/6meyZ56Vb6 __**(NOT DASHACTYL SUPPORT, no Dashactyl support will be given here anymore, scroll a bit more down for the Dashactyl Discord instant invite link)**__
 
 ---
 
