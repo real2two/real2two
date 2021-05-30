@@ -14,6 +14,8 @@ I'll be making a portfolio soon *hopefully*.
 
 ## My best projects.
 
+No, I don't have any project currently I consider to be "good", or have good code quality, but I'm currently planning or am making projects I might soon consider to fall in this category. 
+
 I am planning on rewriting Custom RPG and Dashactyl to meet up to my current code quality expectations, and use MySQL, instead of keyv (which organizes stuff terribly).
 
 I'm also helping [Realmy](https://github.com/ItsRealmy), who is an amazing frontend developer, to make a project that is going to be a useful tool for future and current developers, but this project is currently private.
