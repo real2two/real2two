@@ -1,4 +1,4 @@
-# Hey! I'm Two.
+# 👋 Hey! I'm Two.
 
 I'm a developer and a student who like to play with APIs, and develop useful or entertaining websites, games, client areas, progressive web applications (softwares), and other stuff.
 
@@ -8,11 +8,13 @@ I like to make open source programs.
 
 I'll be making a portfolio soon *hopefully*.
 
+## 📊 Statistics
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=real2two&show_icons=true&theme=dark)
 
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=real2two)](https://github.com/anuraghazra/github-readme-stats)
 
-## My best projects.
+## 📌 My best projects.
 
 No, I don't have any project currently I consider to be "good", or have good code quality, but I'm currently planning or am making projects I might soon consider to fall in this category. 
 
@@ -22,7 +24,7 @@ I'm also helping [Realmy](https://github.com/ItsRealmy), who is an amazing front
 
 I'm also thinking of rewriting https://github.com/real2two/Exion, since I learnt the basics of MySQL really easily and fast (also for developers who use some library for a database, you should try out MySQL, because it's really easy once you've got the hang of it), unintentionally have people who wants to help me make Exion, and it would be so much faster for Exion to work if I weren't using keyv.
 
-## Some low quality code projects I have made.
+## 📂 Some low quality code projects I have made.
 
 I made a Discord bot called Custom RPG, which now a friend of mine owns.
 
@@ -46,7 +48,7 @@ Dashactyl server: https://discord.gg/yEv2KhVbWX
 
 ---
 
-Two inactive projects that I think were pretty good are:
+Two inactive projects that I think were pretty good (in the past) are:
 
 - Pterodactyl Discord bot (client api): https://www.mc-market.org/resources/16709/ (not on GitHub, Discord bot made with Node.JS.)
 - LittleChat: https://github.com/real2two/littlechat (Made with QB64, chat program that I can literally remake it to be 200x better now.)
