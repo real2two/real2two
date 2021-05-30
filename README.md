@@ -1,18 +1,26 @@
 # Hey! I'm Two.
 
-I'm a developer and a student who like to develop websites, games, Discord bots, and other stuff.
+I'm a developer and a student who like to play with APIs, and develop useful or entertaining websites, games, client areas, progressive web applications (softwares), and other stuff.
 
-I'm currently a full stack developer who makes frontend pages and backend code by myself.
+I'm currently a full stack developer, but mainly a backend developer.
 
 I like to make open source programs.
 
-I'll be making a portfolio soon.
+I'll be making a portfolio soon *hopefully*.
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=real2two&show_icons=true&theme=dark)
 
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=real2two)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My best projects.
+
+I am planning on rewriting Custom RPG and Dashactyl to meet up to my current code quality expectations, and use MySQL, instead of keyv (which organizes stuff terribly).
+
+I'm also helping [Realmy](https://github.com/ItsRealmy), who is an amazing frontend developer, to make a project that is going to be a useful tool for future and current developers, but this project is currently private.
+
+I'm also thinking of rewriting https://github.com/real2two/Exion, since I learnt the basics of MySQL really easily and fast (also for developers who use some library for a database, you should try out MySQL, because it's really easy once you've got the hang of it), unintentionally have people who wants to help me make Exion, and it would be so much faster for Exion to work if I weren't using keyv.
+
+## Some low quality code projects I have made.
 
 I made a Discord bot called Custom RPG, which now a friend of mine owns.
 
