@@ -18,11 +18,11 @@ I'll be making a portfolio soon *hopefully*.
 
 No, I don't have any project currently I consider to be "good", or have good code quality, but I'm currently planning or am making projects I might soon consider to fall in this category. 
 
-I am planning on rewriting Custom RPG and Dashactyl to meet up to my current code quality expectations, and use MySQL, instead of keyv (which organizes stuff terribly).
+I am planning on rewriting Custom RPG and Dashactyl to meet up to my current code quality expectations, and use MySQL, instead of keyv (which organizes stuff terribly). __But I'm currently lazy.__
 
-I'm also helping [Realmy](https://github.com/ItsRealmy), who is an amazing frontend developer, to make a project that is going to be a useful tool for future and current developers, but this project is currently private.
+I'm also helping [Realmy](https://github.com/ItsRealmy), who is an amazing frontend developer, to make a project that is going to be a useful tool for future and current developers, but this project is currently private. __This might get abandoned. I hope it doesn't.__
 
-I'm also thinking of rewriting https://github.com/real2two/Exion, since I learnt the basics of MySQL really easily and fast (also for developers who use some library for a database, you should try out MySQL, because it's really easy once you've got the hang of it), unintentionally have people who wants to help me make Exion, and it would be so much faster for Exion to work if I weren't using keyv.
+~~I'm also thinking of rewriting https://github.com/real2two/Exion, since I learnt the basics of MySQL really easily and fast (also for developers who use some library for a database, you should try out MySQL, because it's really easy once you've got the hang of it), unintentionally have people who wants to help me make Exion, and it would be so much faster for Exion to work if I weren't using keyv.~~
 
 ## 📂 Some low quality code projects I have made.
 
