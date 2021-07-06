@@ -24,16 +24,6 @@ I am planning on rewriting Custom RPG to meet up to my current code quality expe
 
 ## 📂 Some low quality code projects I have made.
 
-I made a Discord bot called Custom RPG, which now a friend of mine owns.
-
-Basically, it's a RPG maker on Discord.
-
-We're making a rewrite for the Discord bot so: https://top.gg/bot/716102473718169680
-
-If you need any support: https://discord.gg/6meyZ56Vb6 __**(NOT DASHACTYL SUPPORT, no Dashactyl support will be given here anymore, scroll a bit more down for the Dashactyl Discord instant invite link)**__
-
----
-
 My current big open source project is Dashactyl.
 
 It connnects with the Pterodactyl Panel ( https://pterodactyl.io/ ) via API.
@@ -43,3 +33,13 @@ This is mainly to be used by hosting providers, who want a Discord OAuth2 login 
 You should check it out: https://github.com/real2two/dashactyl
 
 Dashactyl server: https://discord.gg/yEv2KhVbWX
+
+---
+
+I made a Discord bot called Custom RPG, which now a friend of mine owns.
+
+Basically, it's a RPG maker on Discord.
+
+We're making a rewrite for the Discord bot so: https://top.gg/bot/716102473718169680
+
+If you need any support: https://discord.gg/6meyZ56Vb6 __**(NOT DASHACTYL SUPPORT, no Dashactyl support will be given here anymore, read the project above for the Dashactyl Discord instant invite link)**__
