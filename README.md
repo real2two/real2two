@@ -18,11 +18,9 @@ I'll be making a portfolio soon *hopefully*.
 
 No, I don't have any project currently I consider to be "good", or have good code quality, but I'm currently planning or am making projects I might soon consider to fall in this category. 
 
-I am planning on rewriting Custom RPG and Dashactyl to meet up to my current code quality expectations, and use MySQL, instead of keyv (which organizes stuff terribly). __But I'm currently lazy.__
+A decent code quality rewrite I'm working on is Dashactyl 1.0. A link to the branch can be found here: https://github.com/real2two/dashactyl/tree/1.0-develop
 
-I'm also helping [Realmy](https://github.com/ItsRealmy), who is an amazing frontend developer, to make a project that is going to be a useful tool for future and current developers, but this project is currently private. __This might get abandoned. I hope it doesn't.__
-
-~~I'm also thinking of rewriting https://github.com/real2two/Exion, since I learnt the basics of MySQL really easily and fast (also for developers who use some library for a database, you should try out MySQL, because it's really easy once you've got the hang of it), unintentionally have people who wants to help me make Exion, and it would be so much faster for Exion to work if I weren't using keyv.~~
+I am planning on rewriting Custom RPG to meet up to my current code quality expectations, and use MySQL, instead of keyv (which organizes stuff terribly).
 
 ## 📂 Some low quality code projects I have made.
 
@@ -45,10 +43,3 @@ This is mainly to be used by hosting providers, who want a Discord OAuth2 login 
 You should check it out: https://github.com/real2two/dashactyl
 
 Dashactyl server: https://discord.gg/yEv2KhVbWX
-
----
-
-Two inactive projects that I think were pretty good (in the past) are:
-
-- Pterodactyl Discord bot (client api): https://www.mc-market.org/resources/16709/ (not on GitHub, Discord bot made with Node.JS.)
-- LittleChat: https://github.com/real2two/littlechat (Made with QB64, chat program that I can literally remake it to be 200x better now.)
