@@ -30,7 +30,9 @@ It connnects with the Pterodactyl Panel ( https://pterodactyl.io/ ) via API.
 
 This is mainly to be used by hosting providers, who want a Discord OAuth2 login system, allow splitting resources, and want customization.
 
-You should check it out: https://github.com/real2two/dashactyl
+Website: https://dashactyl.com
+
+GitHub: https://github.com/real2two/dashactyl
 
 Dashactyl server: https://discord.gg/yEv2KhVbWX
 
@@ -40,6 +42,6 @@ I made a Discord bot called Custom RPG, which now a friend of mine owns.
 
 Basically, it's a RPG maker on Discord.
 
-We're making a rewrite for the Discord bot so: https://discord.bots.gg/bots/716102473718169680 (outdated bot page, top.gg is buggy and won't let me edit my bot page https://top.gg/bot/716102473718169680)
+The bot page: https://discord.bots.gg/bots/716102473718169680 (outdated bot page, top.gg is buggy and won't let me edit my bot page https://top.gg/bot/716102473718169680)
 
 If you need any support: https://discord.gg/6meyZ56Vb6 __**(NOT DASHACTYL SUPPORT, no Dashactyl support will be given here anymore, read the project above for the Dashactyl Discord instant invite link)**__
