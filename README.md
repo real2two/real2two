@@ -18,11 +18,13 @@ I'll be making a portfolio soon *hopefully*.
 
 No, I don't have any project currently I consider to be "good", or have good code quality, but I'm currently planning or am making projects I might soon consider to fall in this category. 
 
-A decent code quality rewrite I'm working on is Dashactyl 1.0. A link to the branch can be found here: https://github.com/real2two/dashactyl/tree/1.0-develop
+Working on a cool project with Realmy.
 
 I am planning on rewriting Custom RPG to meet up to my current code quality expectations, and use MySQL, instead of keyv (which organizes stuff terribly).
 
 ## 📂 Some low quality code projects I have made.
+
+A decent code quality rewrite (nah it's terrible) I'm working on is Dashactyl 1.0. A link to the branch can be found here: https://github.com/real2two/dashactyl/tree/1.0-develop
 
 My current big open source project is Dashactyl.
 
