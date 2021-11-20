@@ -26,7 +26,7 @@ A decent code quality rewrite (nah it's terrible) I'm working on is Dashactyl 1.
 
 My current big open source project is Dashactyl.
 
-It connnects with the Pterodactyl Panel ( https://pterodactyl.io/ ) via API.
+It connects with the Pterodactyl Panel ( https://pterodactyl.io/ ) via API.
 
 This is mainly to be used by hosting providers, who want a Discord OAuth2 login system, allow splitting resources, and want customization.
 
