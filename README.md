@@ -18,8 +18,6 @@ I'll be making a portfolio soon *hopefully*.
 
 No, I don't have any project currently I consider to be "good", or have good code quality, but I'm currently planning or am making projects I might soon consider to fall in this category. 
 
-Working on a cool project with Realmy.
-
 I am planning on rewriting Custom RPG to meet up to my current code quality expectations, and use MySQL, instead of keyv (which organizes stuff terribly).
 
 ## 📂 Some low quality code projects I have made.
