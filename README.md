@@ -18,11 +18,19 @@ I'll be making a portfolio soon *hopefully*.
 
 No, I don't have any project currently I consider to be "good", or have good code quality, but I'm currently planning or am making projects I might soon consider to fall in this category. 
 
+---
+
 I am planning on rewriting Custom RPG to meet up to my current code quality expectations.
 
+---
+
 Also, I have few cool game ideas in mind, and I'm learning computer graphics.
+
 Very cool link: https://www.youtube.com/watch?v=70MQ-FugwbI&list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM&index=1
+
 (thanks to [bruhvim](https://github.com/Brahvim) for showing me this amazing playlist, and making me more motivated to learn computer graphics <3... i wonder when you will read this lol)
+
+---
 
 ## 📂 Some low quality code projects I have made.
 
