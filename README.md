@@ -1,10 +1,8 @@
 # 👋 Hey! I'm Two.
 
-I'm a developer and a student who like to play with APIs, games, client areas, progressive web applications (softwares), develop useful and entertaining websites, and a ton more other projects! 
+I'm a self-taught developer! I like to contribute to open source projects, and make projects for fun.
 
-I'm mainly a Javascript (Node.JS mainly) developer.
-
-I like to make open source programs, and projects for fun.
+Most of these projects are made with **Javascript** (Node.JS), which is my main language.
 
 I'll be making a portfolio soon *hopefully*.
 
