@@ -32,3 +32,5 @@ This is a RPG maker Discord bot. It currently doesn't have many features, but I'
 - Discord support server: https://discord.gg/6meyZ56Vb6
 - Top.GG: https://top.gg/bot/716102473718169680
 - Bots.GG: https://discord.bots.gg/bots/716102473718169680
+
+---
