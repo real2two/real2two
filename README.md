@@ -1,16 +1,14 @@
 # 👋 Hey! I'm Two.
 
-I'm a self-taught developer! I like to contribute to open source projects, and make projects for fun.
+I'm a self-taught developer who likes to contribute to open source projects, and make projects for fun.
 
-Most of these projects are made with **Javascript** (Node.JS), which is my main language.
+Most of my projects are made with **Javascript** (Node.JS), which is my main language.
 
 I'll be making a portfolio soon *hopefully*.
 
 ## 📊 Statistics
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=real2two&show_icons=true&theme=dark)
-
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=real2two)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📌 My best projects.
 
@@ -22,7 +20,7 @@ Some of these projects may not be open source, and might not have code quality I
 
 ---
 
-#### Custom RPG
+#### ⚔️ Custom RPG
 
 This is a RPG maker Discord bot. It currently doesn't have many features, but I'm working on it!
 
