@@ -14,7 +14,7 @@ I'll be making a portfolio soon *hopefully*.
 
 ## 📌 My best projects.
 
-Currently, I don't have any open source project currently I am proud of. There might be... something coming?
+Currently, I don't have any open source project currently I am proud of. There might be something coming soon...
 
 ## 📂 Other projects I've made.
 
