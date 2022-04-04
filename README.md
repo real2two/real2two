@@ -2,7 +2,7 @@
 
 I'm a self-taught developer who likes to contribute to open source projects, and make projects for fun.
 
-Most of my projects are made with **Javascript** (Node.JS), which is my main language.
+Most of my projects are made with **Javascript** (Node.JS), which is my main language. Also, I'm currently learning Lua and C++! (bits by bits every once in a while...)
 
 I'll be making a portfolio soon *hopefully*.
 
@@ -14,7 +14,7 @@ I'll be making a portfolio soon *hopefully*.
 
 ## 📌 My best projects.
 
-Currently, I don't have any open source project currently I am proud of.
+Currently, I don't have any open source project currently I am proud of. There might be... something coming?
 
 ## 📂 Other projects I've made.
 
