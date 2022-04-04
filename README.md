@@ -6,6 +6,8 @@ Most of my projects are made with **Javascript** (Node.JS), which is my main lan
 
 I'll be making a portfolio soon *hopefully*.
 
+(all of my open source code on github sucks. don't look at any of my recent github repos as reference. most of them were created in <7 days.)
+
 ## 📊 Statistics
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=real2two&show_icons=true&theme=dark)
