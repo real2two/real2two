@@ -1,8 +1,8 @@
 # 👋 Hey! I'm Two.
 
-I'm a full-stack developer who likes to contribute to open source projects, and make projects for fun.
+I'm a full-stack developer who likes to contribute to open source projects and make projects for fun.
 
-Most of my projects are made with **Javascript** (Node.JS), which is my main language. (I haven't learned Typescript yet.) 
+Most of my projects are made with **Javascript**, including Node.JS. (I haven't learned Typescript yet.) 
 
 I'll be making a portfolio soon *hopefully*.
 
@@ -12,13 +12,13 @@ I'll be making a portfolio soon *hopefully*.
 
 ## 📌 My best projects.
 
-Currently, I don't have any open source project currently I am proud of. There might be something coming soon...
+Currently, I don't have any open source project I am proud of currently.
 
-I'm working on a web-based game called Hidodie! This would be my *very first video game*, and I plan on releasing a demo during Summer 2022. (I'm currently on my 4th HTML reattempt making this game.)
+I'm working on a web-based game called Hidodie! This would be my *very first video game*, and I plan on releasing a demo during Summer 2022. This project will become open source in the near future. (I'm currently on my 4th HTML reattempt making this game.)
 
 ## 📂 Other projects I've made.
 
-Some of these projects might not be open source and not have code quality I am proud of.
+These projects are might not be open source or not have good code quality.
 
 ---
 
