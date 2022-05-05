@@ -1,6 +1,6 @@
 # 👋 Hey! I'm Two.
 
-I'm a full-stack developer who likes to contribute to open source projects and make projects for fun.
+I'm a full-stack developer who likes to contribute to open source projects and make them for fun.
 
 Most of my projects are made with **Javascript**, including Node.JS. (I haven't learned Typescript yet.) 
 
