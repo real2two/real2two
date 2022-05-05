@@ -12,7 +12,7 @@ I'll be making a portfolio soon *hopefully*.
 
 ## 📌 My best projects.
 
-Currently, I don't have any open source project I am proud of currently.
+Currently, I don't have any open source projects I am proud of.
 
 I'm working on a web-based game called Hidodie! This would be my *very first video game*, and I plan on releasing a demo during Summer 2022. This project will become open source in the near future. (I'm currently on my 4th HTML reattempt making this game.)
 
