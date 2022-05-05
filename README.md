@@ -6,6 +6,12 @@ Most of my projects are made with **Javascript**, including Node.JS. (I haven't 
 
 I'll be making a portfolio soon *hopefully*.
 
+## 💬 Discord
+
+I don't have a public Discord server for my development quota, but I'm on this amazing server owned by [Realmy](https://github.com/ItsRealmy).
+
+》[https://discord.gg/2xyMyrwZQk](https://discord.gg/2xyMyrwZQk)《
+
 ## 📊 Statistics
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=real2two&show_icons=true&theme=dark)
