@@ -14,6 +14,8 @@ I'll be making a portfolio soon *hopefully*.
 
 Currently, I don't have any open source project currently I am proud of. There might be something coming soon...
 
+I'm soon planning on released a web-based game called Hidodie! This would be my very first web-game and I plan on releasing a demo in Summer 2022.
+
 ## 📂 Other projects I've made.
 
 Some of these projects might not be open source and not have code quality I am proud of.
