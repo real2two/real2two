@@ -18,13 +18,13 @@ I'm working on a web-based game called Hidodie! This would be my *very first vid
 
 ## 📂 Other projects I've made.
 
-These projects are might not be open source or not have good code quality.
+These projects might not be open source or not have good code quality.
 
 ---
 
 #### ⚔️ Custom RPG
 
-This is a RPG maker Discord bot. Currently, it doesn't have many features but our team is working on it!
+A RPG maker Discord bot. This bot is still under development!
 
 - Website: https://customrpg.xyz
 - Discord support server: https://discord.gg/6meyZ56Vb6
