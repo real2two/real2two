@@ -14,7 +14,7 @@ I'll be making a portfolio soon *hopefully*.
 
 Currently, I don't have any open source projects I am proud of.
 
-I'm working on a web-based game called Hidodie! This would be my *very first video game*, and I plan on releasing a demo during Summer 2022. This project will become open source in the near future. (I'm currently on my 4th HTML reattempt making this game.)
+I'm working on a web-based game called Hidodie! This would be my *very first video game* and I plan on releasing a demo during Summer 2022. This project will become open source in the near future. (I'm currently on my 4th HTML reattempt making this game.)
 
 ## 📂 Other projects I've made.
 
@@ -24,9 +24,9 @@ These projects are might not be open source or not have good code quality.
 
 #### ⚔️ Custom RPG
 
-This is a RPG maker Discord bot. It currently doesn't have many features, but I'm working on it!
+This is a RPG maker Discord bot. Currently, it doesn't have many features but our team is working on it!
 
-- Main website: https://customrpg.xyz
+- Website: https://customrpg.xyz
 - Discord support server: https://discord.gg/6meyZ56Vb6
 - Top.GG: https://top.gg/bot/716102473718169680
 - Bots.GG: https://discord.bots.gg/bots/716102473718169680
