@@ -10,7 +10,7 @@ I'll be making a portfolio soon *hopefully*.
 
 I don't have a public Discord server for my development quota, but I'm on this amazing server owned by [Realmy](https://github.com/ItsRealmy).
 
-》[https://discord.gg/2xyMyrwZQk](https://discord.gg/2xyMyrwZQk)《
+https://discord.gg/2xyMyrwZQk
 
 ## 📊 Statistics
 
