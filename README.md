@@ -4,6 +4,10 @@ I'm a full-stack Javascript developer who likes to create open source projects f
 
 I'll be making a portfolio soon *hopefully*.
 
+## 📞 Contact
+
+If you want to contact me, screw you. you can't. I don't take commissions yet lol but if you need any help with anything... i might say something if you... you know... join that discord server below?
+
 ## 💬 Discord
 
 I don't have a public Discord server for my development quota but I'm on this amazing server owned by [Realmy](https://github.com/ItsRealmy).
