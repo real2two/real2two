@@ -6,7 +6,7 @@ I'll be making a portfolio soon *hopefully*.
 
 ## 📞 Contact
 
-If you want to contact me, screw you. you can't. I don't take commissions yet lol but if you need any help with anything... i might say something if you... you know... join that discord server below?
+If you want to contact me, you can't.
 
 ## 💬 Discord
 
