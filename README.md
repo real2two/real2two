@@ -1,14 +1,12 @@
 # 👋 Hey! I'm Two.
 
-I'm a full-stack developer who likes to contribute to open source projects and make them for fun.
-
-Most of my projects are made with **Javascript**, including Node.JS. (I haven't learned Typescript yet.) 
+I'm a full-stack Javascript developer who likes to create open source projects for fun.
 
 I'll be making a portfolio soon *hopefully*.
 
 ## 💬 Discord
 
-I don't have a public Discord server for my development quota, but I'm on this amazing server owned by [Realmy](https://github.com/ItsRealmy).
+I don't have a public Discord server for my development quota but I'm on this amazing server owned by [Realmy](https://github.com/ItsRealmy).
 
 https://discord.gg/2xyMyrwZQk
 
