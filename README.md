@@ -20,7 +20,11 @@ https://discord.gg/2xyMyrwZQk
 
 Currently, I don't have any open source projects I am proud of.
 
+---
+
 I'm working on a web-based game called Hidodie! This would be my *very first video game* and I plan on releasing a demo during [undetermined date]. This project's frontend repository will likely become open source in the near future.
+
+---
 
 ## 📂 Other projects I've made.
 
