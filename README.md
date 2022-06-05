@@ -34,3 +34,13 @@ A RPG maker Discord bot. This bot is still under development!
 - Discord support server: https://discord.gg/6meyZ56Vb6
 - Top.GG: https://top.gg/bot/716102473718169680
 - Bots.GG: https://discord.bots.gg/bots/716102473718169680
+
+#### ⚡ Dashactyl
+
+A client area I created where you can manage servers with a Discord OAuth2 login system.
+
+*I don't work on this project anymore nor will provide support on it.*
+
+(only listing the versions I worked on.)
+v1: https://github.com/Votion-Development/Dashactyl
+v0.4: https://github.com/Votion-Development/Dashactyl-0.4
