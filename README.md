@@ -6,7 +6,7 @@ I'll be making a portfolio soon *hopefully*.
 
 ## 📞 Contact
 
-If you want to contact me, you can't.
+If you want to contact me, you can't currently. 
 
 ## 💬 Discord
 
