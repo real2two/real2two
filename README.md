@@ -18,17 +18,13 @@ https://discord.gg/2xyMyrwZQk
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=real2two&show_icons=true&theme=dark)
 
-## 📌 My best projects.
-
-Currently, I don't have any open source projects I am proud of.
+## 📌 My current projects.
 
 I'm working on a web-based game called Hidodie! This would be my *very first video game* and I plan on releasing a demo during [undetermined date]. This project's frontend repository will likely become open source in the near future.
 
+Also, I'm working on a Discord bot management panel.
+
 ## 📂 Other projects I've made.
-
-These projects might not be open source or not have good code quality.
-
----
 
 #### ⚔️ Custom RPG
 
@@ -38,5 +34,3 @@ A RPG maker Discord bot. This bot is still under development!
 - Discord support server: https://discord.gg/6meyZ56Vb6
 - Top.GG: https://top.gg/bot/716102473718169680
 - Bots.GG: https://discord.bots.gg/bots/716102473718169680
-
----
