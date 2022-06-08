@@ -16,6 +16,8 @@ https://discord.gg/2xyMyrwZQk
 
 ## 📊 Statistics
 
+![Profile views](https://komarev.com/ghpvc/?username=real2two)
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=real2two&show_icons=true&theme=dark)
 
 ## 📌 My current projects.
