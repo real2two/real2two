@@ -26,7 +26,7 @@ I'm working on a web-based game called Hidodie! This would be my *very first vid
 
 Also, I'm working on a Discord bot management panel.
 
-# ⏸️ Projects on hold.
+## ⏸️ Projects on hold.
 
 #### ⚔️ Custom RPG
 
