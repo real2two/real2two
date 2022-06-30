@@ -10,9 +10,9 @@ If you want to contact me, you can't currently.
 
 ## 💬 Discord
 
-I don't have a public Discord server for my development quota but I'm on this amazing server owned by [Realmy](https://github.com/ItsRealmy).
+I own this server with [Realmy](https://github.com/ItsRealmy).
 
-https://discord.gg/2xyMyrwZQk
+https://discord.gg/RAqTvZxW7S
 
 ## 📊 Statistics
 
