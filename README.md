@@ -4,11 +4,7 @@ I'm a full-stack Javascript developer who likes to create open source projects f
 
 I'll be making a portfolio soon *hopefully*.
 
-## 📞 Contact
-
-If you want to contact me, you can't currently. 
-
-## 💬 Discord
+## 📞 Contact / 💬 Discord
 
 I own this server with [Realmy](https://github.com/ItsRealmy).
 
@@ -22,7 +18,7 @@ https://discord.gg/RAqTvZxW7S
 
 ## 📌 My current projects.
 
-I'm working on a web-based game called Hidodie! This would be my *very first video game* and I plan on releasing a demo during [undetermined date]. This project's frontend repository will likely become open source in the near future.
+I'm working on a web-based game called Hidodie! This would be my *very first video game* and I plan on releasing a demo during Summer 2022. This project's repositories will hopefully become open source in the near future.
 
 Also, I'm working on a Discord bot management panel.
 
