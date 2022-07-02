@@ -1,3 +1,7 @@
+### You should read this. https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/
+
+---
+
 # 👋 Hey! I'm Two.
 
 I'm a full-stack Javascript developer who likes to create open source projects for fun.
