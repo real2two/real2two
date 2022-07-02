@@ -1,4 +1,4 @@
-### You should read this. https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/
+### You should read this. https://sfconservancy.org/GiveUpGitHub/
 
 I'm considering finding a better platform to continue showing off my open source work.
 
