@@ -1,5 +1,11 @@
 ### You should read this. https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/
 
+I'm considering finding a better platform to continue showing off my open source work.
+
+I will keep all my current (public) projects on GitHub but won't be adding that many more projects on GitHub anytime soon.
+
+I'll still be using GitHub for private projects because of its ease of use.
+
 ---
 
 # 👋 Hey! I'm Two.
