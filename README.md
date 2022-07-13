@@ -1,13 +1,3 @@
-### You should read this. https://sfconservancy.org/GiveUpGitHub/
-
-I'm considering finding a better platform to continue showing off my open source work.
-
-I will keep all my current (public) projects on GitHub but won't be adding that many more projects on GitHub anytime soon.
-
-I'll still be using GitHub for private projects because of its ease of use.
-
----
-
 # 👋 Hey! I'm Two.
 
 I'm a full-stack Javascript developer who likes to create open source projects for fun.
