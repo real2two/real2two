@@ -18,9 +18,9 @@ https://discord.gg/RAqTvZxW7S
 
 ## 📌 My current projects.
 
-I'm working on a web-based game called Hidodie! This would be my *very first video game* and I plan on releasing a demo during Summer 2022. This project's repositories will hopefully become open source in the near future.
+I'm working on a super secret project.
 
-Also, I'm working on a Discord bot management panel.
+Also, I'm working on a game called Hidodie which is currently in pause.
 
 ## ⏸️ Projects on hold.
 
@@ -28,12 +28,16 @@ Also, I'm working on a Discord bot management panel.
 
 A RPG maker Discord bot. This bot is still under development!
 
-*Reason for being on hold: Working on a open source Discord bot management panel to speed up development.*
-
 - Website: https://customrpg.xyz
 - Discord support server: https://discord.gg/6meyZ56Vb6
 - Top.GG: https://top.gg/bot/716102473718169680
 - Bots.GG: https://discord.bots.gg/bots/716102473718169680
+
+#### 📜 Custom Stories
+
+A customizable text adventure Discord bot.
+
+- Website: https://stories.customrpg.xyz/
 
 ## 📂 Other projects I've made.
 
