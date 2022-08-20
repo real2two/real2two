@@ -4,11 +4,9 @@ I'm a full-stack Javascript developer who likes to create open source projects f
 
 I'll be making a portfolio soon *hopefully*.
 
-## 📞 Contact / 💬 Discord
+## 📌 My current projects.
 
-I own this server with [Realmy](https://github.com/ItsRealmy).
-
-https://discord.gg/RAqTvZxW7S
+I'm working on a super secret project.
 
 ## 📊 Statistics
 
@@ -16,13 +14,9 @@ https://discord.gg/RAqTvZxW7S
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=real2two&show_icons=true&theme=dark)
 
-## 📌 My current projects.
+## 📂 Other projects I've made.
 
-I'm working on a super secret project.
-
-Also, I'm working on a game called Hidodie which is currently in pause.
-
-## ⏸️ Projects on hold.
+*These are few other projects I've created.*
 
 #### ⚔️ Custom RPG
 
@@ -38,10 +32,6 @@ A RPG maker Discord bot. This bot is still under development!
 A customizable text adventure Discord bot.
 
 - Website: https://stories.customrpg.xyz/
-
-## 📂 Other projects I've made.
-
-*These are few popular projects I've created that I don't work on anymore nor will any support.*
 
 #### ⚡ Dashactyl
 
