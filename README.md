@@ -24,6 +24,8 @@ A multiplayer hide and seek game I put on hold.
 
 *Disclaimer: You can't play the game currently and there's no plans to continue this game. I only left the home screen on the website.*
 
+*Warning: The placeholder links redirect you to 'Never Gonna Give You Up'.
+
 https://hidodie.pages.dev/
 
 #### ⚔️ Custom RPG
