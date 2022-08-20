@@ -18,9 +18,17 @@ I'm working on a super secret project.
 
 *These are few other projects I've created.*
 
+#### 🟨 Hidodie
+
+A multiplayer hide and seek game I put on hold.
+
+*Disclaimer: You can't play the game currently and there's no plans to continue this game. I only left the home screen on the website.*
+
+https://hidodie.pages.dev/
+
 #### ⚔️ Custom RPG
 
-A RPG maker Discord bot. This bot is still under development!
+A Discord bot where you can create your own RPGs.
 
 - Website: https://customrpg.xyz
 - Discord support server: https://discord.gg/6meyZ56Vb6
@@ -35,8 +43,7 @@ A customizable text adventure Discord bot.
 
 #### ⚡ Dashactyl
 
-A client area I created where you can manage servers with a Discord OAuth2 login system.
+A client area where you can manage your servers on a Pterodactyl Panel instance with a Discord OAuth2 login system.
 
-v1: https://github.com/Votion-Development/Dashactyl
-
-v0.4: https://github.com/Votion-Development/Dashactyl-0.4
+- v1: https://github.com/Votion-Development/Dashactyl
+- v0.4: https://github.com/Votion-Development/Dashactyl-0.4
