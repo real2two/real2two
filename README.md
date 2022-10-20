@@ -10,6 +10,8 @@ I'll be making a portfolio soon *hopefully*.
 
 I'm working on a super secret project.
 
+Also, I do a lot of work with [Custom Developments](https://github.com/custom-developments) so I'm going to be open sourcing repositories in that organization as well.
+
 ### ⚔️ Custom RPG
 
 A Discord bot where you can create your own RPGs.
