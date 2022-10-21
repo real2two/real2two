@@ -25,6 +25,8 @@ A Discord bot where you can create your own RPGs.
 
 ![Profile views](https://komarev.com/ghpvc/?username=real2two)
 
+![My Skills](https://skillicons.dev/icons?i=js,mysql,mongodb)
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=real2two&show_icons=true&theme=dark)
 
 ## 📂 Other projects I've made.
