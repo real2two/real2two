@@ -33,7 +33,7 @@ A Discord bot where you can create your own RPGs. This project has over 20k+ lin
 
 #### Others
 
-These are other old projects that gained popularity. I'm not proud of these projects because the code is horrible.
+These are other old projects that gained popularity.
 
 - https://github.com/Votion-Development/Dashactyl-0.4 (client area which I created but no longer work on.)
 - https://hidodie.pages.dev/ (abandoned game, ui design only.)
