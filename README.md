@@ -33,6 +33,8 @@ A Discord bot where you can create your own RPGs. This project has over 20k+ lin
 
 #### Others
 
-- https://github.com/Votion-Development/Dashactyl-0.4 (client area)
-- https://hidodie.pages.dev/ (abandoned game, ui design only)
+These are other old projects I'm no longer proud of.
+
+- https://github.com/Votion-Development/Dashactyl-0.4 (client area which I created but no longer work on.)
+- https://hidodie.pages.dev/ (abandoned game, ui design only.)
 - https://stories.customrpg.xyz/ (another Discord bot.)
