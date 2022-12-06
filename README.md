@@ -8,18 +8,7 @@ I'll be making a portfolio soon *hopefully*.
 
 ### 
 
-I'm working on a super secret project.
-
-Also, I do a lot of work on [Custom Developments](https://github.com/custom-developments) so I'm going to be open sourcing repositories in that organization as well.
-
-### ⚔️ Custom RPG
-
-A Discord bot where you can create your own RPGs.
-
-- Website: https://customrpg.xyz
-- Discord support server: https://discord.gg/6meyZ56Vb6
-- Top.GG: https://top.gg/bot/716102473718169680
-- Bots.GG: https://discord.bots.gg/bots/716102473718169680
+I'm working on a project involving microservices. :)
 
 ## 📊 Statistics
 
@@ -33,25 +22,17 @@ A Discord bot where you can create your own RPGs.
 
 *These are few other projects I've created.*
 
-#### 🟨 Hidodie
+#### ⚔️ Custom RPG
 
-A multiplayer hide and seek game I put on hold.
+A Discord bot where you can create your own RPGs. This project has over 20k+ lines of code.
 
-*Warning: The placeholder links redirect you to 'Never Gonna Give You Up'.*
+- Website: https://customrpg.xyz
+- Discord support server: https://discord.gg/6meyZ56Vb6
+- Top.GG: https://top.gg/bot/716102473718169680
+- Bots.GG: https://discord.bots.gg/bots/716102473718169680
 
-*Disclaimer: You can't play the game currently and there's no plans to continue this game. I only left the home screen on the website.*
+#### Others
 
-https://hidodie.pages.dev/
-
-#### 📜 Custom Stories
-
-A customizable text adventure Discord bot.
-
-- Website: https://stories.customrpg.xyz/
-
-#### ⚡ Dashactyl
-
-A client area where you can manage your servers on a Pterodactyl Panel instance with a Discord OAuth2 login system.
-
-- v1: https://github.com/Votion-Development/Dashactyl
-- v0.4: https://github.com/Votion-Development/Dashactyl-0.4
+- https://github.com/Votion-Development/Dashactyl-0.4 (client area)
+- https://hidodie.pages.dev/ (abandoned game, ui design only)
+- https://stories.customrpg.xyz/ (another Discord bot.)
