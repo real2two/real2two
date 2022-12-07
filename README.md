@@ -28,8 +28,8 @@ A Discord bot where you can create your own RPGs. This project has over 20k+ lin
 
 - Website: https://customrpg.xyz
 - Discord support server: https://discord.gg/6meyZ56Vb6
-- Top.GG: https://top.gg/bot/716102473718169680
 - Bots.GG: https://discord.bots.gg/bots/716102473718169680
+- Top.GG: https://top.gg/bot/716102473718169680
 
 #### Others
 
