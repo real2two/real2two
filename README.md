@@ -6,7 +6,7 @@ I'll be making a portfolio soon *hopefully*. The problem is I'm not proud of the
 
 ## 📌 My current projects.
 
-I'm working on a project involving microservices. :)
+I'm working on nothing.
 
 ## 📊 Statistics
 
