@@ -2,11 +2,11 @@
 
 I'm a full-stack Javascript developer who likes to create open source projects for fun.
 
-I'll be making a portfolio soon *hopefully*. The problem is I'm not proud of the codebase of *any* (open source) project I've created.
+I'll be making a portfolio soon *hopefully*.
 
 ## 📌 My current projects.
 
-I'm working on nothing.
+I'm working on rewriting Custom RPG and making a YouTube channel.
 
 ## 📊 Statistics
 
