@@ -6,7 +6,7 @@ I'll be making a portfolio soon *hopefully*.
 
 ## 📌 My current projects.
 
-I'm working on rewriting Custom RPG and making a YouTube channel.
+I'm working on projects.
 
 ## 📊 Statistics
 
