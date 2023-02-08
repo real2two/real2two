@@ -2,11 +2,19 @@
 
 I'm a full-stack Javascript developer who likes to create open source projects for fun.
 
-I'll be making a portfolio soon *hopefully*.
+I'll be making a portfolio soon *after I release projects I'm proud of*.
 
 ## 📌 My current projects.
 
 I'm working on projects.
+
+#### 🔼 ???
+
+TBA.
+
+#### 🎵 ???
+
+TBA.
 
 ## 📊 Statistics
 
