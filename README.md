@@ -8,7 +8,11 @@ I'll be making a portfolio soon *after I release projects I'm proud of*.
 
 I'm working on projects. I'm still working on Custom RPG, but it isn't my main prodigy.
 
-#### 🎵 ???
+### 🧩 ???
+
+TBA. This project is going to involve Pterodactyl Panel.
+
+#### 🎵 SyncedO
 
 TBA.
 
