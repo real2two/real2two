@@ -12,10 +12,6 @@ I'm working on projects. I'm still working on Custom RPG, but it isn't my main p
 
 TBA. This project is going to involve Pterodactyl Panel.
 
-#### 🎵 SyncedO
-
-TBA.
-
 ## 📊 Statistics
 
 ![Profile views](https://komarev.com/ghpvc/?username=real2two)
