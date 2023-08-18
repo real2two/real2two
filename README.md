@@ -2,7 +2,7 @@
 
 I'm a full-stack Javascript developer who likes to create open source projects for fun.
 
-![My Skills](https://skillicons.dev/icons?i=js,mysql,mongodb)
+![My Skills](https://skillicons.dev/icons?i=ts,js,mysql,mongodb)
 
 ## 📌 My current projects.
 
