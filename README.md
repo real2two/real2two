@@ -2,27 +2,9 @@
 
 I'm a full-stack Javascript developer who likes to create open source projects for fun.
 
-I'll be making a portfolio soon *after I release projects I'm proud of*.
-
-## 📌 My current projects.
-
-I'm working on projects. I'm still working on Custom RPG, but it isn't my main prodigy.
-
-### 🧩 ???
-
-TBA. This project is going to involve Pterodactyl Panel.
-
-## 📊 Statistics
-
-![Profile views](https://komarev.com/ghpvc/?username=real2two)
-
 ![My Skills](https://skillicons.dev/icons?i=js,mysql,mongodb)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=real2two&show_icons=true&theme=dark)
-
-## 📂 Other projects I've made.
-
-*These are few other projects I've created.*
+## 📌 My current projects.
 
 #### ⚔️ Custom RPG
 
@@ -33,10 +15,14 @@ A Discord bot where you can create your own RPGs. This project has over 20k+ lin
 - Bots.GG: https://discord.bots.gg/bots/716102473718169680
 - Top.GG: https://top.gg/bot/716102473718169680
 
-#### Others
+### 🧩 ???
 
-These are other old projects that gained popularity.
+TBA. This project is going to involve Pterodactyl Panel.
 
-- https://github.com/Votion-Development/Dashactyl-0.4 (client area which I created but no longer work on.)
-- https://hidodie.pages.dev/ (abandoned game, ui design only.)
-- https://stories.customrpg.xyz/ (another Discord bot.)
+## 📂 Other projects I've made.
+
+*These are few other projects I've created.*
+
+- Dashactyl (client area): https://github.com/Votion-Development/Dashactyl-0.4
+- Hidodie (game UI): https://hidodie.pages.dev/
+- Pyro (chat app): https://github.com/pyroapp/pyro-web
