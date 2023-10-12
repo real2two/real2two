@@ -15,10 +15,6 @@ A Discord bot where you can create your own RPGs. This project has over 20k+ lin
 - Bots.GG: https://discord.bots.gg/bots/716102473718169680
 - Top.GG: https://top.gg/bot/716102473718169680
 
-### 🧩 ???
-
-TBA. This project is going to involve Pterodactyl Panel.
-
 ## 📂 Other projects I've made.
 
 *These are few other projects I've created.*
