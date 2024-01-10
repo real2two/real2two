@@ -6,7 +6,7 @@ I'm a full-stack Javascript developer who likes to create open source projects f
 
 ## 📌 My current projects.
 
-In my personal opinion, there's nothing interesting I'm working on right now, since they're all just Discord bot related.
+In my personal opinion, there's nothing interesting I'm working on right now, since they're all Discord bot related.
 
 #### ⚔️ Custom RPG
 
