@@ -17,9 +17,9 @@ A Discord bot where you can create your own RPGs. This project has over 20k+ lin
 
 #### 🤖 Discordeno v19 Bot Template (mini-project)
 
-A scalable Discord bot template dedicated to improving the developer experience.
+A scalable Discord bot template dedicated to improving developer experience.
 
-This template is going to be used on Discord bots I created, such as Custom RPG.
+This template is going to be used on Discord bots I create.
 
 - GitHub: https://github.com/real2two/discordeno-template
 
