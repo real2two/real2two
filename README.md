@@ -6,7 +6,11 @@ I'm a full-stack Javascript developer who likes to create open source projects f
 
 ## 📌 My current projects.
 
-In my personal opinion, there's nothing interesting I'm working on right now, since they're all Discord bot related.
+### 📦 Hidodie (unreleased)
+
+A multiplayer hide and seek game.
+
+- Source code: https://github.com/real2two/hidodie
 
 #### ⚔️ Custom RPG
 
@@ -16,12 +20,6 @@ A Discord bot where you can create your own RPGs. This project has over 20k+ lin
 - Discord support server: https://discord.gg/6meyZ56Vb6
 - Bots.GG: https://discord.bots.gg/bots/716102473718169680
 - Top.GG: https://top.gg/bot/716102473718169680
-
-#### 🤖 Discordeno v19 Bot Template (mini-project)
-
-A scalable Discord bot template dedicated to improving developer experience.
-
-This template is going to be used on Discord bots I create.
 
 - GitHub: https://github.com/real2two/discordeno-template
 
