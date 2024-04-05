@@ -21,8 +21,6 @@ A Discord bot where you can create your own RPGs. This project has over 20k+ lin
 - Bots.GG: https://discord.bots.gg/bots/716102473718169680
 - Top.GG: https://top.gg/bot/716102473718169680
 
-- GitHub: https://github.com/real2two/discordeno-template
-
 ## 📂 Other projects I've worked on.
 
 #### 📦 Stuff I contributed to
