@@ -6,7 +6,7 @@ I'm a full-stack Javascript developer who likes to create open source projects f
 
 ## 📌 My current projects.
 
-### 📦 Hidodie (unreleased)
+### 🕹️ Hidodie (unreleased)
 
 A multiplayer hide and seek game.
 
@@ -23,10 +23,19 @@ A Discord bot where you can create your own RPGs. This project has over 20k+ lin
 
 - GitHub: https://github.com/real2two/discordeno-template
 
-## 📂 Other projects I've made.
+## 📂 Other projects I've worked on.
 
-*These are few other projects I've created.*
+#### 📦 Stuff I contributed to
 
-- Dashactyl (client area): https://github.com/Votion-Development/Dashactyl-0.4
-- Hidodie (game UI): https://hidodie.pages.dev/
-- Pyro (chat app): https://github.com/pyroapp/pyro-web
+Code related:
+- `dd-cache-proxy` (caching for discordeno): https://github.com/AwesomeStickz/dd-cache-proxy - I updated the library to discordeno v19.
+- `pyro-web` (landing page for pyro.host): https://github.com/pyrohost/web - I fixed a bug on the website.
+
+Reverse engineering related:
+- `ptero-notes` (better documentations for Pterodactyl Panel's API): https://github.com/devnote-dev/ptero-notes - I reverse engineered and documented the panel's /api/remote endpoints.
+- `drama.gg archive` (archive for drama.gg): https://github.com/drama-DOT-gg/ - I created scripts to archive the entire site. 
+
+#### ☠️ Dead projects
+
+- `Dashactyl` (client area): https://github.com/Votion-Development/Dashactyl-0.4
+- `Pyro` (chat app): https://github.com/pyroapp/pyro-web
