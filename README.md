@@ -6,11 +6,7 @@ I'm a full-stack Javascript developer who likes to create open source projects f
 
 ## 📌 My current projects.
 
-### 🕹️ Hidodie (unreleased)
-
-A multiplayer hide and seek game.
-
-- Source code: https://github.com/real2two/hidodie
+I'm currently working on few projects, which aren't listed here.
 
 #### ⚔️ Custom RPG
 
