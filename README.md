@@ -1,8 +1,13 @@
 # 👋 Hey! I'm Two.
 
-I'm a full-stack Javascript developer who likes to create open source projects for fun.
+I'm a full-stack Javascript developer who likes to break things and create open source projects for fun.
 
-![My Skills](https://skillicons.dev/icons?i=ts,js,mysql,mongodb)
+![My Skills](https://skillicons.dev/icons?i=ts,js,mysql,mongodb,postgres)
+
+## 👥 Profiles
+
+- Hackerone: https://hackerone.com/real2two?type=user
+- Discord: https://discord.com/users/276497792526974996
 
 ## 📌 My current projects.
 
@@ -27,5 +32,5 @@ A Discord bot where you can create your own RPGs. This project has over 20k+ lin
 
 #### ☠️ Dead projects
 
-- `Dashactyl` (client area): https://github.com/Votion-Development/Dashactyl-0.4
-- `Pyro` (chat app): https://github.com/pyroapp/pyro-web
+- `Dashactyl` (client area): https://github.com/real2two/dashactyl
+- `PyroChat` (chat app): https://github.com/pyroapp/pyro-web
