@@ -26,9 +26,9 @@ A Discord bot where you can create your own RPGs. This project has over 20k+ lin
 
 #### 📦 Stuff I contributed to
 
-- `dd-cache-proxy` (caching for discordeno): https://github.com/AwesomeStickz/dd-cache-proxy - I updated the library to discordeno v19.
-- `pyro-web` (landing page for pyro.host): https://github.com/pyrohost/web - I fixed a bug on the website.
-- `ptero-notes` (better documentations for Pterodactyl Panel's API): https://github.com/devnote-dev/ptero-notes - I reverse engineered and documented the panel's /api/remote endpoints.
+- `dd-cache-proxy` (caching for discordeno): https://github.com/AwesomeStickz/dd-cache-proxy ➤ _I updated the library to [Discordeno v19](https://discordeno.js.org/)._
+- `pyro-web` (landing page for pyro.host): https://github.com/pyrohost/web ➤ _I fixed a visual bug on the website._
+- `ptero-notes` (better documentations for Pterodactyl Panel's API): https://github.com/devnote-dev/ptero-notes ➤ _I reverse engineered and documented the panel's `/api/remote` endpoints._
 
 #### ☠️ Dead projects
 
