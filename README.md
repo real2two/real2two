@@ -32,5 +32,5 @@ A Discord bot where you can create your own RPGs. This project has over 20k+ lin
 
 #### ☠️ Dead projects
 
-- `Dashactyl` (client area): https://github.com/real2two/dashactyl
+- `Dashactyl` (client area): https://github.com/votion-Development/Dashactyl-0.4
 - `PyroChat` (chat app): https://github.com/pyroapp/pyro-web
