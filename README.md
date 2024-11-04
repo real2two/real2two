@@ -11,7 +11,7 @@ I'm a full-stack Javascript developer who likes to break things and create open 
 
 ## 📌 My current projects.
 
-I'm currently working on few projects, which aren't listed here.
+I'm currently working on few projects, which aren't listed here. :)
 
 #### ⚔️ Custom RPG
 
@@ -27,10 +27,8 @@ A Discord bot where you can create your own RPGs. This project has over 20k+ lin
 #### 📦 Stuff I contributed to
 
 - `dd-cache-proxy` (caching for discordeno): https://github.com/AwesomeStickz/dd-cache-proxy ➤ _I updated the library to [Discordeno v19](https://discordeno.js.org/)._
-- `pyro-web` (landing page for pyro.host): https://github.com/pyrohost/web ➤ _I fixed a visual bug on the website._
 - `ptero-notes` (better documentations for Pterodactyl Panel's API): https://github.com/devnote-dev/ptero-notes ➤ _I reverse engineered and documented the panel's `/api/remote` endpoints._
 
 #### ☠️ Dead projects
 
 - `Dashactyl` (client area): https://github.com/votion-Development/Dashactyl-0.4
-- `PyroChat` (chat app): https://github.com/pyroapp/pyro-web
