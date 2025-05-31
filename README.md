@@ -7,6 +7,7 @@ I'm a full-stack Javascript developer who likes to break things and create open 
 ## 👥 Profiles
 
 - Hackerone: https://hackerone.com/real2two?type=user
+- hacked-in: https://hackedin.net/two
 - Discord: https://discord.com/users/276497792526974996
 
 ## 📌 My current projects.
