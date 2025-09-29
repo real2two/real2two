@@ -1,6 +1,6 @@
 # 👋 Hey! I'm Two.
 
-I'm a full-stack Javascript developer who likes to break things and create open source projects for fun.
+I'm a full-stack TypeScript developer who likes to break things and create open source projects for fun.
 
 ![My Skills](https://skillicons.dev/icons?i=ts,js,mysql,mongodb,postgres)
 
