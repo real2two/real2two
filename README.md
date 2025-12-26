@@ -16,7 +16,7 @@ I'm currently working on few projects, which aren't listed here. :)
 
 #### ⚔️ Custom RPG
 
-A Discord bot where you can create your own RPGs. This project has over 20k+ lines of code.
+A Discord bot where you can create your own RPGs.
 
 - Website: https://customrpg.xyz
 - Discord support server: https://discord.gg/6meyZ56Vb6
